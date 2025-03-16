@@ -1,2 +1,2 @@
 # hello
-for github prac
+for github practice
